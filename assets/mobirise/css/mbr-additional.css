@@ -1199,7 +1199,7 @@ body {
 .cid-qVByxp9pLr {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2c4d6b;
+  background-color: #1dc9cb;
 }
 .cid-qVByxp9pLr .accordion-content {
   flex-basis: 100%;
@@ -1254,10 +1254,10 @@ body {
   width: 100%;
 }
 .cid-qVByxp9pLr .card .card-header a.panel-title[aria-expanded="true"] {
-  background-color: #1dc9cb;
+  background-color: #476f94;
 }
 .cid-qVByxp9pLr .card .card-header a.panel-title[aria-expanded="true"] .header-text {
-  color: #000000 !important;
+  color: #ffffff !important;
 }
 .cid-qVByxp9pLr .card .panel-body {
   background: #ffffff;
